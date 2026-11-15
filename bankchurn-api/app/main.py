@@ -25,7 +25,11 @@ def index(request: Request) -> Any:
     body = (
         "<html>"
         "<body style='padding: 10px;'>"
+<<<<<<< HEAD
         "<h1>Welcome to the API</h1>"
+=======
+        "<h1>Welcome to the PAULA's new API </h1>"
+>>>>>>> 31adb0131c9a53a43ea6972b577df8faf7eb9b9d
         "<div>"
         "Check the docs: <a href='/docs'>here</a>"
         "</div>"
